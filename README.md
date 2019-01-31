@@ -1,2 +1,2 @@
-# Epita-MSc-IntroductoryPythonforDS
-An introduction to Python for Data Science aimed at MSc Students @Epita
+# Epita-MSc-SklearnforDataScience
+Introduction to Python for Data Science
